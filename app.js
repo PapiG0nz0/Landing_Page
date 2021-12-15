@@ -13,4 +13,13 @@ menu.addEventListener('click', mobileMenu);
 // Scroll to Portfolio
 function ScrollToPortfolio(){
     document.querySelector('.services').scrollIntoView({behavior: 'smooth'})
+    menu.classList.toggle('is-active');
+    menuLinks.classList.toggle('active');
+}
+
+//Scroll to About
+function ScrollToAbout(){
+    document.querySelector('#home').scrollIntoView({behavior: 'smooth'})
+    menu.classList.toggle('is-active');
+    menuLinks.classList.toggle('active');
 }
