@@ -496,6 +496,10 @@
         margin-top: 1rem;
         font-size: 1.5rem;
     }
+
+    .main__img--card img {
+        width: 475px;
+    }
 }
 
 @media  screen and (max-width: 480px) {
@@ -517,5 +521,7 @@
         padding: 12px 36px;
         margin: 2.5rem 0;
     }
-
+    .main__img--card img{
+        width: 300px;
+    }
 }
