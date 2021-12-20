@@ -130,6 +130,7 @@
     }
     #navbar__logo {
         padding-left: 25px;
+        margin-left: 5px;
     }
     .navbar__toggle .bar{
         width: 25px;
@@ -521,7 +522,7 @@
         margin: 2.5rem 0;
     }
 
-    .main__img--emoji {
+    .main__img--card {
         width: 50%;
         height: 50%;
         display: flex;
