@@ -477,8 +477,8 @@
     }
 
     .main__img--card{
-        height: 425px;
-        height: 425px;
+        height: 50%;
+        height: 50%;
     }
 
     .main__content {
@@ -522,10 +522,9 @@
         margin: 2.5rem 0;
     }
 
-    .main__img--card {
-        width: 50%;
-        height: 50%;
-        display: flex;
+    .main__img{
+        width: 250px;
+        height: 250px;
         justify-content: center;
     }
 }
