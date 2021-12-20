@@ -17,8 +17,8 @@ function ScrollToPortfolio(){
     menuLinks.classList.toggle('active');
 }
 
-//Scroll to About
-function ScrollToAbout(){
+//Scroll to Home
+function ScrollToHome(){
     document.querySelector('#home').scrollIntoView({behavior: 'smooth'})
     menu.classList.toggle('is-active');
     menuLinks.classList.toggle('active');
