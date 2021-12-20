@@ -502,24 +502,18 @@
 }
 
 @media  screen and (max-width: 480px) {
-    .main__img--card{
-        width: 250px;
-        height: 250px;
-    }
-
+    
     .main__content h1{
-        font-size: 2rem;
-        margin-top: 3rem;
+        font-size: 3rem;
+        margin-top: 4rem;
     }
     
     .main__content h2{
-        font-size: 1rem;
-        margin-top: 4rem;
+        font-size: 2rem;
     }
 
     .main__content p {
-        margin-top: 1rem;
-        font-size: 2rem;
+        font-size: 1.3rem;
     }
 
     .main__btn {
