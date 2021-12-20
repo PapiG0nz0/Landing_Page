@@ -474,11 +474,7 @@
     .main__img--container {
         display: flex;
         justify-content: center;
-    }
-
-    .main__img--card{
-        height: 50%;
-        height: 50%;
+        
     }
 
     .main__content {
@@ -522,9 +518,4 @@
         margin: 2.5rem 0;
     }
 
-    .main__img{
-        width: 250px;
-        height: 250px;
-        justify-content: center;
-    }
 }

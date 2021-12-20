@@ -23,3 +23,10 @@ function ScrollToHome(){
     menu.classList.toggle('is-active');
     menuLinks.classList.toggle('active');
 }
+
+//Scroll to About
+function ScrollToAbout(){
+    document.querySelector('#btn').scrollIntoView({behavior: 'smooth'})
+    menu.classList.toggle('is-active');
+    menuLinks.classList.toggle('active');
+}
