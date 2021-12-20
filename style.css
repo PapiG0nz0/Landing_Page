@@ -520,4 +520,11 @@
         padding: 12px 36px;
         margin: 2.5rem 0;
     }
+
+    .main__img--emoji {
+        width: 50%;
+        height: 50%;
+        display: flex;
+        justify-content: center;
+    }
 }
