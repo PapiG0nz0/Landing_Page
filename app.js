@@ -26,7 +26,7 @@ function ScrollToHome(){
 
 //Scroll to About
 function ScrollToAbout(){
-    document.querySelector('#main_content').scrollIntoView({behavior: 'smooth'})
+    document.querySelector('#img').scrollIntoView({behavior: 'smooth'})
     menu.classList.toggle('is-active');
     menuLinks.classList.toggle('active');
 }

@@ -254,7 +254,7 @@
     justify-content: center;
     align-items: center;
     height: 100%;
-    padding: 10rem 0;
+    padding: 5rem 0;
 }
 
 .services h1{
@@ -266,7 +266,7 @@
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
     font-size: 2.5rem;
 }
 
@@ -274,6 +274,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr;
+    margin-bottom: 10rem;
 }
 
 .services__card{
@@ -361,7 +362,8 @@
 
 /*About section*/
 .main {
-    background-color: #131313;
+    background: #000000;
+    background: linear-gradient(to bottom, #161616, #000000);
     padding: 10rem 0;
     margin-top: -100px;
 }
