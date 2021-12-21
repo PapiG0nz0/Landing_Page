@@ -363,7 +363,7 @@
 /*About section*/
 .main {
     background: #000000;
-    background: linear-gradient(to bottom, #161616, #000000);
+    background: linear-gradient(to top, #161616, #000000);
     padding: 10rem 0;
     margin-top: -100px;
 }
