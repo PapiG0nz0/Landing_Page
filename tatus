@@ -1,0 +1,101 @@
+[33mcommit 3f7be897ad4b0f00b0e7cc0e2dee6c20f4b761e3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 18:50:13 2021 -0600
+
+    Modiffied to bottom to to top gradient from about section
+
+[33mcommit f2189a6a2833626c1bc594eb3d0b5d0ecefe3a0e[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 18:35:00 2021 -0600
+
+    Modified margin on portfolio, modified css and scroll view into
+
+[33mcommit f96f1a573d5207fad9bc88c57b9ce3d0aa1c4d1e[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 15:49:36 2021 -0600
+
+    Modified scroll into view
+
+[33mcommit ddf71d45a20f9e3ff3d0f83946fa59459c353967[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 15:46:39 2021 -0600
+
+    Modified css screen query and html class
+
+[33mcommit 275f8968dc4bd75a4a970978cd6dd8b6093455ac[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 15:33:28 2021 -0600
+
+    Added scroll view to about button
+
+[33mcommit bc9d19ca607306e6359edd7c18e3860b9da108e2[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 15:16:23 2021 -0600
+
+    Modified css and html for memoji image screen query
+
+[33mcommit e9951d4204fea6f320401e052fca75c962810999[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 14:56:50 2021 -0600
+
+    Modified index.html & style.css
+
+[33mcommit 790239e7d48ba9735e529125f1d6fdf4305a5826[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 14:49:33 2021 -0600
+
+    Modified css screen query for 480px
+
+[33mcommit 571173d88738d001460f953782160765716443cf[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 14:31:54 2021 -0600
+
+    Modified html and css for 480px max width
+
+[33mcommit 7fb335804842f54764ab3c61336b7b876c07c316[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 20 14:25:07 2021 -0600
+
+    Added about section for both html & css, added .png image
+
+[33mcommit 4fc2fd104ae1faed0ca7ee829a37c7fbf3bba01b[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Wed Dec 15 15:27:42 2021 -0600
+
+    Aded smoothscroll behaviour to About section and addes script to navbar link
+
+[33mcommit 427ceadfaa98b9d33a1f2423324278fd50e7fdb4[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Tue Dec 14 20:28:58 2021 -0600
+
+    Added smooth behaviour scroll for Portfolio navbar link
+
+[33mcommit 5e00b542f72c55b6abe9737b0113597872f99150[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Tue Dec 14 19:57:29 2021 -0600
+
+    Added Project section in both index.html & style.css
+
+[33mcommit cb0d5b60e7241c3d22c5b24783d5dc7a49d1e602[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Tue Dec 14 18:52:56 2021 -0600
+
+    Added Hero section on index.html & css
+
+[33mcommit f700bf117e683365a5e6da3b2a1965c4c13bac0c[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Tue Dec 14 14:01:45 2021 -0600
+
+    Finished navbar and created app.js file
+
+[33mcommit fbe7e26976e912f4350958a46014a08fd50397f1[m
+Author: PapiG0nz0 <gonzaloalcala0304@gmail.com>
+Date:   Mon Dec 13 18:43:19 2021 -0600
+
+    Add new files
+
+[33mcommit c3a03ca9274dbebfa3bd26e656101b521e009ab2[m
+Author: PapiG0nz0 <89489832+PapiG0nz0@users.noreply.github.com>
+Date:   Mon Dec 13 16:33:43 2021 -0600
+
+    Initial commit
